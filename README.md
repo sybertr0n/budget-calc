@@ -1,7 +1,7 @@
 # budget-calc
 ### A simple monthly Budget Calculator developed using HTM, JS, CSS with MVC architecture
 
-# To-Do's :
+## TODO:
   ## Stage 1:
   	<!-- CONTROLLER MODULE -->
   	1. Add event Handler in DOM 
